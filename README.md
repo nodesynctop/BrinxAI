@@ -36,3 +36,16 @@ chmod +x install_ubuntu.sh
 `Note: During the installation process, the project requires opening the default port 5011, if you want to use another port, enter it.`
 
 `Open that port on your HomeServer or VPS (if ufw is enabled)`
+
+Check open ports: https://portchecker.co
+
+## Step 4: Go to this page to register an account or login (if you already have one): 
+
+Register account: https://workers.brinxai.com/register.php?ref=4bf51063
+
+Select Add Worker Node -> Enter NodeName -> Enter node IP -> Enter the port provided above -> Add Node-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/8afb4cbb-f4d7-40ff-8275-66ee008888fd"
+</p>
+Then wait about 5-10 minutes for the node to be activated
+
