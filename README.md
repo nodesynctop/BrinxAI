@@ -17,7 +17,7 @@ Documentation: https://brinxai.gitbook.io
 
 FAQ (Frequently Asked Questions): https://brinxai.gitbook.io/brinxai-depin-ai/faq
 
-Register account for Worker Nodes: https://workers.brinxai.com/register.php?ref=4bf51063 (If not yet)
+**Register account for Worker Nodes:** https://workers.brinxai.com/register.php?ref=4bf51063 (If not yet)
 
 # How to Run BrinxAI Worker Nodes - Linux (Ubuntu)
 #### System Requirements for Worker Nodes
