@@ -37,6 +37,8 @@ chmod +x install_ubuntu.sh
 
 `Open that port on your HomeServer or VPS (if ufw is enabled)`
 
+Waiting for the installation to complete
+
 Check open ports: https://portchecker.co
 
 ## Step 4: Go to this page to register an account or login (if you already have one): 
