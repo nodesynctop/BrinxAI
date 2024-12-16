@@ -92,4 +92,8 @@ If you change the IP for Worker node or add a new worker node, please do not del
 ### Note 2: 
 Currently, only one device per IP address is allowed for running nodes.
 
+# How to Run BrinxAI Worker Nodes - Windows (use WSL)
+
+This video: https://www.youtube.com/watch?v=q4xYmyHI1rg
+
 ## Don't forget to like and follow me: https://x.com/nodesync_top
