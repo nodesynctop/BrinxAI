@@ -15,7 +15,7 @@ Official Website :https://brinxai.com
 Litepaper
 https://brinxai.com/litepaper.pdf
 
-Documentation: https://brinxai.gitbook.io
+Guide dev: https://brinxai.gitbook.io/brinxai-depin-ai/worker-nodes-setup/worker-nodes-docker-setup
 
 FAQ (Frequently Asked Questions): https://brinxai.gitbook.io/brinxai-depin-ai/faq
 
