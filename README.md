@@ -13,7 +13,9 @@ FAQ (Frequently Asked Questions): https://brinxai.gitbook.io/brinxai-depin-ai/fa
 
 # How to Run BrinxAI Worker Nodes - Linux (Ubuntu)
 #### System Requirements for Worker Nodes
-<center> ![worker1](https://github.com/user-attachments/assets/c23ede3f-db05-4438-836e-9f5e798f6ad0) </center>
+<center>
+![worker1](https://github.com/user-attachments/assets/c23ede3f-db05-4438-836e-9f5e798f6ad0)
+</center>
 
 ## Step 1. Install Docker (If not yet)
 ```
