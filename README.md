@@ -56,7 +56,7 @@ Check open ports: https://portchecker.co
 
 ## Step 4: Go to this page to register an account or login (if you already have one): 
 
-Register account: https://workers.brinxai.com/register.php?ref=4bf51063
+## **Register account:** https://workers.brinxai.com/register.php?ref=4bf51063
 
 Select Add Worker Node -> Enter NodeName -> Enter node IP -> Enter the port provided above -> Add Node-
 <p align="center">
