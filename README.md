@@ -83,4 +83,6 @@ Wait a moment for all models to be in Running status and it's ok. Points will up
 <img src="https://github.com/user-attachments/assets/383a59f7-107f-42c3-8ce0-e27e4a6a6af3"
 </p>
 
+`Note: Currently, only one device per IP address is allowed for running nodes.`
+
 ## Don't forget to like and follow me: https://x.com/nodesync_top
