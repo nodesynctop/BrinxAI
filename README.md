@@ -21,7 +21,8 @@ FAQ (Frequently Asked Questions): https://brinxai.gitbook.io/brinxai-depin-ai/fa
 
 **Register account for Worker Nodes:** https://workers.brinxai.com/register.php?ref=4bf51063 (If not yet)
 
-`Did you know? BrinxAI is rewarding early adopters with 40 Million BRINX tokens!`
+## `Did you know? BrinxAI is rewarding early adopters with 40 Million BRINX tokens!`
+
 Details: https://x.com/BrinxAi_Labs/status/1858935607508050003
 
 # How to Run BrinxAI Worker Nodes - Linux (Ubuntu)
