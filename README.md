@@ -48,4 +48,16 @@ Select Add Worker Node -> Enter NodeName -> Enter node IP -> Enter the port prov
 <img src="https://github.com/user-attachments/assets/8afb4cbb-f4d7-40ff-8275-66ee008888fd"
 </p>
 Then wait about 5-10 minutes for the node to be activated
+  
+## Step 5: Models configuration
+
+Click "Models" -> View the configuration of the models that your device can meet)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/752abe5e-e13f-410a-bf74-fc22a73ccd30"
+</p>
+
+Click "Manually Turn On Models" -> copy the models that can run with your configuration
+<p align="center">
+<img src="https://github.com/user-attachments/assets/dddfa20b-dd55-49a3-8c79-0bb2a65958b6"
+</p>
 
