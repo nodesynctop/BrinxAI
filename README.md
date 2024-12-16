@@ -23,6 +23,8 @@ FAQ (Frequently Asked Questions): https://brinxai.gitbook.io/brinxai-depin-ai/fa
 
 ## `Did you know? BrinxAI is rewarding early adopters with 40 Million BRINX tokens!`
 
+`1 Point = 1.0000 Tokens`
+
 Details: https://x.com/BrinxAi_Labs/status/1858935607508050003
 
 # How to Run BrinxAI Worker Nodes - Linux (Ubuntu)
