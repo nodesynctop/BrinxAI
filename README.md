@@ -3,7 +3,8 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/fdf3aeb0-e4b0-4dec-8533-fa054b482b63"
 </p>
-### Revolutionizing AI with DePIN & Crypto at BrinxAI!
+  
+**Revolutionizing AI with DePIN & Crypto at BrinxAI!**
 
 Twitter / X: https://x.com/BrinxAI_Labs
 
