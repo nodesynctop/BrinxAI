@@ -61,3 +61,9 @@ Click "Manually Turn On Models" -> copy the models that can run with your config
 <img src="https://github.com/user-attachments/assets/dddfa20b-dd55-49a3-8c79-0bb2a65958b6"
 </p>
 
+## Step 6: Running status
+
+Wait a moment for all models to be in Running status and it's ok. Points will update a bit slowly.
+<p align="center">
+<img src="https://github.com/user-attachments/assets/383a59f7-107f-42c3-8ce0-e27e4a6a6af3"
+</p>
