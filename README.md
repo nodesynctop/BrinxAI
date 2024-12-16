@@ -27,7 +27,7 @@ FAQ (Frequently Asked Questions): https://brinxai.gitbook.io/brinxai-depin-ai/fa
 
 Details: https://x.com/BrinxAi_Labs/status/1858935607508050003
 
-# How to Run BrinxAI Worker Nodes - Linux (Ubuntu)
+# How to Run BrinxAI Worker Nodes - Linux (Ubuntu) - VPS
 #### System Requirements for Worker Nodes
 <p align="center">
 <img src="https://github.com/user-attachments/assets/d6ab92e3-5444-40cd-884d-5d499c3d34e1" />
