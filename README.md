@@ -8,7 +8,7 @@
 
 Twitter / X: https://x.com/BrinxAI_Labs
 
-Discord:   http://discord.gg/3u3gKQnUj7
+Discord:  https://discord.gg/7U33FaFT
 
 Official Website :https://brinxai.com
 
